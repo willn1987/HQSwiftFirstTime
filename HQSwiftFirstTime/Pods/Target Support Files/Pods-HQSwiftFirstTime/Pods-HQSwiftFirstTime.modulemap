@@ -1,0 +1,6 @@
+module Pods_HQSwiftFirstTime [system] {
+  umbrella header "Pods-HQSwiftFirstTime-umbrella.h"
+
+  export *
+  module * { export * }
+}
